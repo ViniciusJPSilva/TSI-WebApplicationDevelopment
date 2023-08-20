@@ -1,0 +1,7 @@
+Trying 142.250.218.238...
+Connected to youtube-ui.l.google.com.
+Escape character is '^]'.
+HTTP/1.0 400 Bad Request
+Date: Sun, 13 Aug 2023 23:19:20 GMT
+Content-Type: text/html; charset=UTF-8
+
